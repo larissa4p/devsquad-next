@@ -1,0 +1,12 @@
+.trusted {
+  background-color: #0d0d0d;
+  background-image: url(../public/images/Logos-Section.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 11rem;
+}
+
+.perfect_h3 {
+  font-size: 35px !important;
+  font-weight: 500 !important;
+}

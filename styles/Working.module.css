@@ -1,0 +1,16 @@
+
+.img_back {
+  background-image: url(../public/images/Icon.png);
+  border-color: #249a7c;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+}
+
+.img_back_mobile {
+  background-image: url(../public/images/img_back_mobile.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center bottom;
+  width: 100%;
+}

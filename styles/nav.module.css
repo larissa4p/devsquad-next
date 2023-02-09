@@ -1,0 +1,16 @@
+.btn_color > button {
+  background-color: #20C498;
+  color: #0d0d0d;
+  font-weight: 600;
+}
+
+.brandd{
+  width: 200px;
+  height: 30px;
+}
+
+.bckWithNav {
+  margin-top: -59px;
+  background: none;
+}
+

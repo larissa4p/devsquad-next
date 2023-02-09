@@ -1,0 +1,17 @@
+.btn_color > button {
+  background-color: #20C498;
+  color: #0d0d0d;
+  font-weight: 600;
+}
+
+.size{
+  width: 33.33333333% !important;
+  margin: 0;
+  padding: 0;
+}
+
+.size2{
+  width: 66.66666667% !important;
+  margin: 0;
+  padding: 0;
+}

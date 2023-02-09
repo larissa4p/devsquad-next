@@ -1,0 +1,9 @@
+.html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #111111;
+  /* padding-top: 59px; */
+  margin-top: -110px;
+}

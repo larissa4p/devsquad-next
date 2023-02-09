@@ -1,0 +1,65 @@
+.div-2 {
+  background-color: #1a1a1d;
+}
+
+.aspas::before {
+  content: url(../public/images/Quote-Mark.png);
+  display: flex;
+  position: absolute;
+  margin-top: -1rem;
+  margin-left: 3rem;
+  color: #265054 !important;
+}
+
+ /* BEFORE  */
+.aspas::before {
+  content: url(../public/images/Quote-Mark.png);
+  display: flex;
+  position: absolute;
+  margin-top: -1rem;
+  margin-left: -1rem;
+  color: #265054 !important;
+}
+
+.aspas2::before {
+  content: url(../public/images/aspas.png);
+  display: flex;
+  position: absolute;
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.aspas3::before {
+  content: url(../public/images/aspas.png);
+  display: flex;
+  position: absolute;
+  color: #265054;
+}
+
+
+@media (max-width: 425px) {
+  .aspas::before {
+    content: url(../public/images/Quote-Mark.png);
+    display: flex;
+    position: absolute;
+    color: #265054;
+    margin-top: -1rem;
+    margin-left: -1rem;
+  }
+
+  .aspas2::before {
+    content: url(../public/images/aspas.png);
+    display: flex;
+    position: absolute;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    color: #265054;
+  }
+
+  .aspas3::before {
+    content: url(../public/images/aspas.png);
+    display: flex;
+    position: absolute;
+    color: #265054;
+  }
+}

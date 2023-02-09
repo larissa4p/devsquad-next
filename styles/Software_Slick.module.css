@@ -1,0 +1,7 @@
+.no-decoration {
+  text-decoration: none;
+}
+
+.bg_frame {
+  background-image: url(../public/images/BG.png);
+}

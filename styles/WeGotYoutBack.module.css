@@ -1,0 +1,40 @@
+.bck {
+  background-image: url(../public/images/Background.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn_color > button {
+  background-color: #20C498;
+  color: #0d0d0d;
+  font-weight: 600;
+}
+
+.size_companies > h3{
+  font-size: 70px !important;
+  padding-bottom: 10px !important;
+}
+
+.we_h3_mobile > h3 {
+  font-size: 50px !important;
+}
+
+.pd {
+  padding-top: 110px;
+}
+
+@media (max-width: 425px) {
+  .bck {
+    margin-top: 59px;
+    background-image: url(../public/images/mobile_background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .we_h3_mobile > h3 {
+    font-size: 50px !important;
+  }
+}
